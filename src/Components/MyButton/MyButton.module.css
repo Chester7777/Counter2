@@ -1,0 +1,24 @@
+.myButtons {
+    background-color: blueviolet;
+    border: 5px solid darkblue;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 24px;
+    cursor: pointer;
+    float: left;
+    margin: -91px -561px 37px 610px;
+}
+
+
+.myButtons_error {
+    background-color: orange;
+    border: 5px solid red;
+    border-radius: 5px;
+    color: red;
+    padding: 15px 24px;
+    cursor: pointer;
+    float: left;
+    margin: -91px -561px 37px 610px;
+}
+
+

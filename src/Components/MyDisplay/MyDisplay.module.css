@@ -1,0 +1,23 @@
+.myDisplay {
+    width: 400px;
+    height: 300px;
+    background-color: aqua;
+    color: darkblue;
+    border: 8px solid blueviolet;
+    margin-top: -15px;
+    margin-left: 574px;
+    font-size: 50px;
+
+}
+
+.myDisplay_error {
+    width: 400px;
+    height: 300px;
+    background-color: gold;
+    border: 8px solid red;
+    font-size: 100px;
+    color: red;
+    margin-top: -15px;
+    margin-left: 574px;
+}
+
